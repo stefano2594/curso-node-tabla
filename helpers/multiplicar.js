@@ -1,7 +1,7 @@
 
 const fs=require('fs');
 const colors= require('colors');
-const crearArchivo = async ( base = 3 , listar= false , hasta = 1) => {
+const crearArchivo = async ( base = 3 , listar= true , hasta = 1) => {
     
     
     try{
