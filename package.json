@@ -1,0 +1,19 @@
+{
+  "name": "ejercicio3_node",
+  "version": "0.0.1",
+  "description": "Aplicacion de tabla de multiplicar",
+  "main": "base1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base3": "node base1 --base=3"
+  },
+  "author": "stefano",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^16.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
